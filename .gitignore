@@ -123,3 +123,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignoring some file extensions
+*.csv
+*.png
+*.py
+*.pickle
+*.pdf
+*.jpg
+*.DS_Store
+*.xlsx
+*.xls
