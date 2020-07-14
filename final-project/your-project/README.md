@@ -20,9 +20,8 @@
 
 ## Project Description
 My goal for this project was to build a model that would be able to gauge whether a review is positive or negative, based on over 200 000 user comments' that reviewed a certain game.
-Approach: a lot of data cleaning and pre-processing in order to be able to use natural language processing to train my model to better understand these reviews and output a good result.
 
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+The approach I used consisted of a lot of data cleaning and pre-processing in order to be able to use natural language processing to train my model to better understand these reviews and output a good result.
 
 ## Hypotheses / Questions
 * What data/business/research/personal question you would like to answer?
