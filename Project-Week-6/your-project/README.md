@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Anime Analysis
+*Matheus Cabral*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics Full-time, February 2020, Lisbon*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,7 +16,11 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+**Goal**: doing a deep dive into the anime world and getting to know the average viewer and their viewing habits, to then better advise production studios in future content-making.
+
+**Approach**: lots of data cleaning, processing, manipulation and exploratory data analysis with Pandas & Matplotlib, to be able to extract and visualize all the information I needed to draw my conclusions.
+
+**Challenges**: turning data insights into action. Making sense of all this user data and how to turn it into useful recommendations for the production studios and decision makers.
 
 <a name="hypotheses-/-questions"></a>
 
