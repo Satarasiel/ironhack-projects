@@ -21,7 +21,7 @@
 ## Project Description
 My goal for this project was to build a model that would be able to gauge whether a review is positive or negative, based on over 250 000 user comments' that reviewed a certain game.
 
-However, I did encounter problems in processing such a big dataset and had to resort to only analyzing part of it, as I didn't have enough processing power to analyze the whole dataset, but I'm looking at ways to still make it work by better optimizing my algorithm.
+However, I did encounter problems in processing such a big dataset and had to resort to only analyzing part of it, as I didn't have enough processing power to analyze the whole dataset, but I'm still looking for ways to make it work by better optimizing my algorithm and using different libraries and techniques.
 
 The approach I used consisted of a lot of data cleaning and pre-processing in order to be able to use natural language processing to train my model to better understand these reviews and output a good result.
 
