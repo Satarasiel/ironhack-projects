@@ -1,3 +1,4 @@
 .DS_Store
 your-project/.ipynb_checkpoints/*
 your-project/Datasets/*
+your-project/*.png
